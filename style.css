@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+#mynavbar{
+    background-color:black; 
+}
+.my_nav_bar{
+    position: sticky;
+    top:0px;
+    z-index: 999;
+}
+#t{
+    color:red;
+    font-size: 17px;
+}
+#text{
+    color:black;
+    font-size: 30px;
+    background-color:#D50000;
+}
+#w{
+    color:black;
+    font-size: 17px;
+    font-family:serif;
+}
+#button{
+    background-color: #D50000;
+}
+#ex{
+    color:red;
+    font-size: 30px;
+}
+#home{
+    text-align: center;
+}
+#letter{
+    text-align:center;
+}
+#bf{
+    text-align: center;
+}
+#vids{
+    text-align:center;
+}
+#img{
+    height:200px;
+}
+#im{
+    height: 50px;
+}
